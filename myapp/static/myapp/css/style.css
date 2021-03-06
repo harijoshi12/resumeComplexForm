@@ -1,0 +1,11 @@
+#id_gender, #id_job_city {
+  list-style-type: none;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+#id_gender > li, #id_job_city > li {
+  padding: 5px 10px;
+}
+/*# sourceMappingURL=style.css.map */

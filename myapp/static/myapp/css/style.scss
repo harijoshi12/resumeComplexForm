@@ -1,0 +1,12 @@
+#id_gender, #id_job_city{
+    list-style-type: none;
+    display: inline-flex;
+}
+
+#id_gender > li, #id_job_city > li{
+    padding: 5px 10px;
+}
+
+.ui-datepicker .ui-datepicker-header{
+    // background: rgb(184, 184, 0);
+}
